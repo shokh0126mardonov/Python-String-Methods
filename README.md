@@ -295,6 +295,6 @@
 **Izoh matnidan “yomon” so‘zlarni olib tashlang, so‘ngra tekshiring**
 
 | Input                                      | Output |
-| ------------------------------------------ | ------ |
+| ------------------------------------------ | 
 | `"this is bad"`         | `True` |
 | `"This is BAD"` | `True` |

@@ -1,0 +1,5 @@
+text = input("Matnni kiriting>>")
+word = input("so'zni kiriting>>")
+word_alm = input("almashtiradigan so'zingizni kiriting>>")
+replace = text.replace(word,word_alm)
+print(replace)
