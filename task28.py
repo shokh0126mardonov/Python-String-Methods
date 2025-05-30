@@ -1,5 +1,5 @@
-text = input("Izoh matnini kiriting: ")
-lower_text = text.lower()
-has_bad = "bad" in lower_text
-replace_text = lower_text.replace("bad", "")
-print(has_bad,replace_text)
+text = input()
+lower_twxt = text.lower()
+result = lower_twxt.replace('bad',' ')
+result1 = result.endswith('bad')
+print(result1)
